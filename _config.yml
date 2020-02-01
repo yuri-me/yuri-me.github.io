@@ -121,7 +121,7 @@ author:
       url: "https://linkedin.com/imelnichuk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/i_melnichuk/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -302,4 +302,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
