@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IM Portfolio"
+title                    : "Iuri's Datacraft"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Portfolio" # site tagline that appears below site title in masthead
 name                     : "Iurii Melnichuk"
 description              : "Portfolio Project Collection"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -233,6 +233,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag # to add favicon
 
 # mimic GitHub Pages with --safe
 whitelist:
