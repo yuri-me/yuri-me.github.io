@@ -27,7 +27,7 @@ The data was modified to protect business interest of London Theatre Direct Ltd.
 
 * [Recognize Changes in Customer Interest + why timing is important](#recognize-changes-in-customer-interest)
 
-* [Recommendations (:rocket: Fast-track to results)](#recommendations)
+* [Recommendations (🚀 Fast-track to results)](#recommendations)
 
 ---
 
@@ -331,6 +331,6 @@ There are 3 distinctive regions:
 
 From the findings of this analysis we are capable to suggest that:
 
-:green_heart: **Theatre tickets buyers begin to develop consistent interest to Valentine's Day performances shortly after Christmas. We recommend launching prospecting ads on social channels following by search ads before the end of the year.**
+💚 **Theatre tickets buyers begin to develop consistent interest to Valentine's Day performances shortly after Christmas. We recommend launching prospecting ads on social channels following by search ads before the end of the year.**
 
-:broken_heart: **Delaying the action after the first week of the year probably jeopardizes marketing outcomes.**
+💔 **Delaying the action after the first week of the year probably jeopardizes marketing outcomes.**
