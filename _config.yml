@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Iurii Melnichuk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/personal-avatar-blue-small.png" # path of avatar image
   bio              : "Data professional passionate about insights, optimisation and data storytelling."
   location         : "Prague, Czech Republic"
   email            :
@@ -118,7 +118,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://linkedin.com/imelnichuk"
+      url: "https://linkedin.com/in/imelnichuk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/i_melnichuk/"
